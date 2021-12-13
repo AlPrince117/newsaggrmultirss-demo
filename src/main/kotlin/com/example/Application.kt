@@ -34,45 +34,27 @@ val rss_site5 = "https://www.peacefmonline.com/pages/news.xml"
 val rss_site6 = "http://www.itnewsafrica.com/feed/"
 val rss_site7 = "https://mfidie.com/tech-news/feed/"
 
-val mapper = jacksonObjectMapper()
 
 suspend fun main() {
     val feeds: MutableList<Feed> = mutableListOf()
-    val client = HttpClient(CIO)
-
-//    install(JsonFeature) {
-//        serializer = JacksonSerializer()
-//    }
-
 
     fun parse(doc: Document){
         for (e in doc.select("item")){
             val title = e.select("title").text()
             val description = e.select("description").text()
             val link = e.select("link").text()
-            feeds.add(Feed(title, link))
-
 
 //            Filter for news
             if (title.contains("Ghana" ) || description.contains("tech")){
                 println("title- $title  link- $link")
+                feeds.add(Feed(title, link))
             }
         }
+//        println(feeds)
         println(feeds.size)
     }
 
-    fun deserialize(htmlContent: String){
 
-        val feeds: List<Feed> = mapper.readValue(htmlContent)
-//        val feed: Feed = mapper.readValue(htmlContent)
-//        println(feeds)
-        for (feed in feeds){
-            println(feed)
-        }
-
-//        val title =
-//        val link =
-    }
 
     try {
         val doc = Jsoup.connect(rss_site7).parser(Parser.xmlParser()).get()
@@ -81,9 +63,7 @@ suspend fun main() {
 
         parse(doc)
         parse(doc2)
-
-        val htmlContent = client.get<String>("https://newsapi.org/v2/everything?q=Ghana&domain=bbc.com&apiKey=d0fd44103236417ca5bb994be1c5cf5b")
-        println(htmlContent)
+        parse(doc3)
 
 //        println(feed)
 
