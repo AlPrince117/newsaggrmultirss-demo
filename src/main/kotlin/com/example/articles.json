@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 101,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Marketmind: Warning - rate rises ahead - Reuters",
+      "description": "Marketmind: Warning - rate rises ahead  Reuters",
+      "url": "https://www.reuters.com/markets/asia/warning-rate-rises-ahead-2021-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/fhxKbK8ezN-sE9Mlr9LWiI8NBKU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OFS7YP22OJNBXBUZMNVHAYSSWI.jpg",
+      "publishedAt": "2021-11-19T08:14:00Z",
+      "content": "A look at the day ahead from Sujata Rao.\r\nCharles Evans and Raphael Bostic, Fed governors from Chicago and Atlanta respectively, are among the U.S. central bank's doves. So, their remarks suggesting … [+2172 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "John Brewin",
+      "title": "The Fiver | Football finds new revenue stream in the Wild West of crypto wibble",
+      "description": "Sign up now! Sign up now! Sign up now? Sign up now!What to give those who have everything? Football’s answer is, as ever, more money. And there’s a new cash cow in town, the wonderful world of cryptocurrency and non-fungible tokens. Everyone’s involved, from …",
+      "url": "https://amp.theguardian.com/football/2021/nov/18/football-crypto-currency-nft-the-fiver",
+      "urlToImage": "https://i.guim.co.uk/img/media/4704f8fd6f6e0af59a98e838699c064d5c382d17/0_0_2700_1620/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=356e8568ea00605086602eaa305819fd",
+      "publishedAt": "2021-11-18T17:18:08Z",
+      "content": "FIVERCOIN, ANYONE?\r\nWhat to give those who have everything? Footballs answer is, as ever, more money. And theres a new cash cow in town, the wonderful world of cryptocurrency and non-fungible tokens.… [+7489 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "LIVE MARKETS Lockdown trading - Reuters",
+      "description": "Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at <a href=\"mailto:markets.research@thomsonreuters.com\" target=\"_blank\">markets.research@thomsonreuters.com</a>",
+      "url": "https://www.reuters.com/markets/stocks/live-markets-lockdown-trading-2021-11-22/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=59",
+      "publishedAt": "2021-11-22T07:46:00Z",
+      "content": "Nov 22 - Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at markets.research@thomsonreuters.com\r\nLOCKDOWN TRADING (0740 … [+2667 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "LIVE MARKETS Telecom sensation at the open - Reuters",
+      "description": "Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at <a href=\"mailto:markets.research@thomsonreuters.com\" target=\"_blank\">markets.research@thomsonreuters.com</a>",
+      "url": "https://www.reuters.com/markets/stocks/live-markets-telecom-sensation-open-2021-11-22/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=59",
+      "publishedAt": "2021-11-22T08:55:00Z",
+      "content": "Nov 22 - Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at markets.research@thomsonreuters.com\r\nTELECOM SENSATION AT TH… [+3513 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "LIVE MARKETS A huge lockdown-triggered risk-off move - Reuters",
+      "description": "Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at <a href=\"mailto:markets.research@thomsonreuters.com\" target=\"_blank\">markets.research@thomsonreuters.com</a>",
+      "url": "https://www.reuters.com/markets/stocks/live-markets-huge-lockdown-triggered-risk-off-move-2021-11-19/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=59",
+      "publishedAt": "2021-11-19T10:21:00Z",
+      "content": "Nov 19 - Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at markets.research@thomsonreuters.com\r\nA HUGE LOCKDOWN-TRIGGER… [+5409 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "LIVE MARKETS Lockdown-induced rotation - Reuters",
+      "description": "Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at <a href=\"mailto:markets.research@thomsonreuters.com\" target=\"_blank\">markets.research@thomsonreuters.com</a>",
+      "url": "https://www.reuters.com/markets/stocks/live-markets-lockdown-induced-rotation-2021-11-19/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=59",
+      "publishedAt": "2021-11-19T11:56:00Z",
+      "content": "Nov 19 - Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at markets.research@thomsonreuters.com\r\nLOCKDOWN-INDUCED ROTATI… [+7053 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Charlie Warzel",
+      "title": "The Tech Moguls Are Looking for a New Playground",
+      "description": "Jack Dorsey’s decision to leave Twitter, like Mark Zuckerberg’s pivot to the metaverse, shows us where the internet is heading.",
+      "url": "https://www.theatlantic.com/technology/archive/2021/12/dorsey-zuckerberg-end-of-second-internet/620886/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2021-12-03T12:00:00Z",
+      "content": "Jack Dorsey, who stepped down as Twitter’s CEO this week, holds the dubious distinction of being one of Silicon Valley’s most important woolgathering sages. Speaking with him can be incredibly disori… [+8295 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "LIVE MARKETS Buying the COVID dip? - Reuters",
+      "description": "Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at <a href=\"mailto:markets.research@thomsonreuters.com\" target=\"_blank\">markets.research@thomsonreuters.com</a>",
+      "url": "https://www.reuters.com/markets/stocks/live-markets-buying-covid-dip-2021-11-22/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=59",
+      "publishedAt": "2021-11-22T10:47:00Z",
+      "content": "Nov 22 - Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at markets.research@thomsonreuters.com\r\nBUYING THE COVID DIP? (… [+6197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Alexander Onukwue",
+      "title": "Omicron isn’t stopping New York’s next mayor from his spiritual visit to Ghana",
+      "description": "Eric Adams, New York City's second ever Black mayor, insisted on proceeding with a visit to Ghana.",
+      "url": "https://qz.com/africa/2096535/new-york-city-mayor-eric-adams-visits-ghana-despite-omicron-scare/",
+      "urlToImage": "https://cms.qz.com/wp-content/uploads/2021/11/2021-05-11T163418Z_857880717_RC2SDN942J5K_RTRMADP_3_USA-ELECTION-ADAMS-NEW-YORK-e1638287098314.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+      "publishedAt": "2021-11-30T17:26:59Z",
+      "content": "New York Citys new mayor Eric Adams is going ahead with a planned visit to Ghana this week, despite global concerns about the severity of the omicron variant of covid-19 and the Africa-focused travel… [+3235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Penny Stocks"
+      },
+      "author": "A. Lawrence",
+      "title": "3 Penny Stocks to Watch Under $4 Right Now",
+      "description": "Which penny stocks are you watching right now?",
+      "url": "https://pennystocks.com/featured/2021/11/29/3-penny-stocks-watch-under-4-now/",
+      "urlToImage": "https://assets.entrepreneur.com/providers/pennystocks/hero-image-pennystocks-399700.jpeg",
+      "publishedAt": "2021-11-29T21:05:16Z",
+      "content": "Are These 3 Under $4 Penny Stocks Worth Buying in 2021?\r\nWhile finding cheap penny stocks can be a great way to make money in 2021, there are a few things that investors need to understand. First and… [+6481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "PK Senyo",
+      "title": "There will be no escaping Ghana’s new levy on electronic transactions",
+      "description": "The proposed levy, which will come into effect on 1 February 2022, is a charge of 1.75% of the value of electronic transactions. It covers mobile money payments, bank transfers, merchant payments, and inward remittances.",
+      "url": "https://qz.com/africa/2092221/ghana-introduces-a-1-75-percent-levy-on-electronic-transactions/",
+      "urlToImage": "https://cms.qz.com/wp-content/uploads/2021/11/2007-07-04T000000Z_981499475_GM1DVPWYEVAA_RTRMADP_3_GHANA-CURRENCY.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+      "publishedAt": "2021-11-19T14:37:28Z",
+      "content": "Ghanas finance minister Ken Ofori-Atta has announced that the government intends to introduce an electronic transaction levy (e-levy) in the 2022 budget. He said this was to widen the tax net and rop… [+5795 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Carlos Mureithi",
+      "title": "Africans’ favorable view of China comes with one small caveat",
+      "description": "Respondents of a new Afrobarometer survey say their governments have borrowed too much money from China.",
+      "url": "https://qz.com/africa/2090221/africans-favorable-view-of-china-comes-with-one-small-caveat/",
+      "urlToImage": "https://cms.qz.com/wp-content/uploads/2021/11/2021-10-30T071741Z_475340824_RC27KQ90K2GN_RTRMADP_3_YANGO-DEBT-e1637083317265.jpeg?quality=75&strip=all&w=1200&h=630&crop=1",
+      "publishedAt": "2021-11-17T13:08:27Z",
+      "content": "When it comes to discussions China-Africa, debt is a common theme, with many saying Africa is overburdened by Chinese lending.\r\nA new survey has found that despite these concerns, most African respon… [+2706 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Ivan Levingston, Gillian Tan, Loni Prinsloo",
+      "title": "Nigerian Tech Startup TeamApt Targeting $1 Billion Valuation - Bloomberg",
+      "description": "Nigerian tech startup TeamApt Ltd. is in the market raising its third round of funding at a value of more than a $1 billion, which will result in the banking software firm joining a spate of Africa-tech companies to become so-called unicorns.",
+      "url": "https://www.bloomberg.com/news/articles/2021-11-15/nigerian-tech-startup-teamapt-targeting-1-billion-valuation",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqBiQPyhLBFY/v0/1200x756.jpg",
+      "publishedAt": "2021-11-15T15:58:17Z",
+      "content": "Sign up to our Next Africa newsletter and \r\nfollow Bloomberg Africa on Twitter\r\nNigerian tech startup \r\nTeamApt Ltd. is in the market raising its third round of funding at a value of more than a $1 b… [+1676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Kingsley Kobo",
+      "title": "How economic sanctions drove money transfers in west Africa underground",
+      "description": "More than $40 billion is sent to sub-Saharan Africa annually via money transfers, according to the World Bank. Mali ranks ninth among African nations for remittances sent back to the country by those living abroad.",
+      "url": "https://qz.com/africa/2086170/the-rise-of-informal-money-transfers-in-west-africa/",
+      "urlToImage": "https://cms.qz.com/wp-content/uploads/2021/11/2019-12-24T215739Z_1725586112_RC2X1E91KY28_RTRMADP_3_IVORYCOAST-CURRENCY.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+      "publishedAt": "2021-11-08T15:20:52Z",
+      "content": "More than $40 billion is sent to sub-Saharan Africa annually via money transfers, according to the World Bank. Mali ranks ninth among African nations for remittances sent back to the country by those… [+9073 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "When tech turns on tech - POLITICO - Politico",
+      "description": "When tech turns on tech - POLITICO  Politico",
+      "url": "https://www.politico.com/newsletters/global-insider/2021/11/05/when-tech-turns-on-tech-494997",
+      "urlToImage": "https://static.politico.com/70/d4/6c144ff2468fb1b073293dd9484c/politico-global-insider-cms-product-small-logo.png",
+      "publishedAt": "2021-11-05T14:55:41Z",
+      "content": "Send tips and thoughts to [email protected]. Follow Ryan on Twitter.\r\nGlobal news attention is now starting to drift away from Europe, but were going to stick with Glasgow and Lisbon shenanigans for … [+13333 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Ifesinachi Okafor-Yarwood, Edward H. Allison",
+      "title": "Africa doesn’t reap the rewards of its $24 billion marine fisheries industry",
+      "description": "It’s estimated that in west Africa, illegal, unreported and unregulated fishing is the equivalent of 40% to 65% of legally reported catch.",
+      "url": "https://qz.com/africa/2092998/who-benefits-from-africas-24-billion-marine-fisheries-industry/",
+      "urlToImage": "https://cms.qz.com/wp-content/uploads/2016/11/local-and-chinese-staff-aboard-a-fishing-vessel.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+      "publishedAt": "2021-11-22T12:35:10Z",
+      "content": "The African marine fisheries sector is huge. Its valued at more than US$24 billion per year.\r\nThe sector is comprised of two main players. One is the continents artisanal or small-scale fishers, a fo… [+7955 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Cai Pigliucci, CNN",
+      "title": "How these companies going green in Ghana could pay off for the country and the planet",
+      "description": "Across Ghana, the creation of green bonds may help pay for environmental priorities and could pave the road towards sustainability.",
+      "url": "https://www.cnn.com/2021/11/18/africa/ghana-green-bonds-sustainability-business-mpa-spc-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211112153005-marketplace-africa-ghana-green-spc-00003511-super-tease.png",
+      "publishedAt": "2021-11-18T16:15:45Z",
+      "content": "(CNN)Across Ghana's industries, from energy to agriculture, companies are using tech to go green. Earlier this year, the country's government pledged to create up to $2 billion in green bonds, which … [+778 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tage Kene-Okafor",
+      "title": "Francophone African super app Gozem grabs $5M to expand and offer more services",
+      "description": "Gozem, a super app that provides a host of services -- including transport, e-commerce and financial services in Francophone Africa -- has raised $5 million ...",
+      "url": "https://techcrunch.com/2021/12/01/francophone-african-super-app-gozem-grabs-5m-to-expand-and-offer-more-services/",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/oOzwa594UoMjYBsgEfbkyg--~B/aD03MDU7dz0xMDgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b18f93171f945019d6a4debc18892e09",
+      "publishedAt": "2021-12-02T07:24:47Z",
+      "content": "Gozem, a super app that provides a host of services -- including transport, e-commerce and financial services in Francophone Africa -- has raised $5 million in Series A financing, the company confirm… [+5141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Jonathan Keane, Contributor, \n Jonathan Keane, Contributor\n https://www.forbes.com/sites/jonathankeane/",
+      "title": "Auto Financing Outfit Moove Targets Ride-Hailing Drivers In African Expansion",
+      "description": "Launched in June of last year and with a $23 million Series A round in its back pocket, the Nigerian start-up provides auto financing for ride-hailing drivers in markets where such financing options are thin on the ground.",
+      "url": "https://www.forbes.com/sites/jonathankeane/2021/11/08/auto-financing-outfit-moove-targets-ride-hailing-drivers-in-african-expansion/",
+      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6185329690c92a11e6f276a3%2F0x0.jpg",
+      "publishedAt": "2021-11-08T08:00:00Z",
+      "content": "Ladi Delano\r\nMoove\r\nMoove, an auto financing start-up for ride-hailing drivers, is eyeing up expansion around Africa. \r\nLaunched in June of last year and with a $23 million Series A round in its back… [+3174 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Annie Njanja",
+      "title": "Healthcare startup Africa Health Holdings lands $18 million series A funding, to roll-out tech-enabled services",
+      "description": "Africa Health Holdings, a healthcare startup running several hospitals, has secured $18 million in a Series A round, funds that will go towards building its ...",
+      "url": "https://techcrunch.com/2021/11/15/healthcare-startup-africa-health-holdings-lands-18-million-series-a-funding-to-roll-out-tech-enabled-services/",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/1IPU2mNeKqXIEVh68WtMdg--~B/aD01NjI7dz00Mzg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/b7b3f83f8b4acc642a9aa829d6ccf651",
+      "publishedAt": "2021-11-15T08:00:31Z",
+      "content": "Africa Health Holdings, a healthcare startup running several hospitals, has secured $18 million in a Series A round, funds that will go towards building its tech-forward healthcare system across Ghan… [+3108 chars]"
+    }
+  ]
+}
