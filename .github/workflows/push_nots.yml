@@ -1,0 +1,25 @@
+name: google_nots
+on: [push]
+
+jobs:
+  my_job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Get commit hash
+        if: ${{ always() }}
+        run: echo "::set-output name=sha8::$(echo ${GITHUB_SHA} | cut -c1-8)"
+        id: slug
+      - name: Chat Setup
+        if: ${{ always() }}
+        uses: DTherHtun/google-chat-action@v0.8
+        with:
+          project: ${{ github.repository }}
+          commit: ${{ steps.slug.outputs.sha8 }}
+          branch: ${{ github.ref }}
+          status: ${{ job.status }}
+          actionid: ${{ github.repository }}/runs/${{ github.run_id }}
+          url: ${{secrets.MULTIRSS_SCRT}}
+#          webhook: "https://chat.googleapis.com/v1/spaces/AAAA-kqQ4pc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=pwJUli-4M7l0rLFK-2_DPbERl5QQnr4EDoWRxdgwbIY%3D"

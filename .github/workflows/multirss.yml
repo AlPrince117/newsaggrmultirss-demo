@@ -1,5 +1,5 @@
 name: Issue Creation Tracker
-on:
+on: [push]
   issues:
     types: [opened]
     
