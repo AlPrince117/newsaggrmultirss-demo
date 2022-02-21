@@ -1,7 +1,15 @@
 name: Issue Creation Tracker
-on: [push]
-  issues:
-    types: [opened]
+
+n:
+    # Triggers the workflow on push or pull request events but only for the main branch
+    push:
+        branches: [ main ]
+    pull_request:
+        branches: [ main ]
+
+#on: [push]
+#  issues:
+#    types: [opened]
     
 jobs:
   build:
