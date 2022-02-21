@@ -6,6 +6,8 @@ n:
         branches: [ main ]
     pull_request:
         branches: [ main ]
+    issues:
+        types: [opened]
 
 #on: [push]
 #  issues:
